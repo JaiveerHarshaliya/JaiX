@@ -86,7 +86,7 @@ A collection of Python projects focused on programming fundamentals, automation,
 
 📫 Connect With Me
 
-- 🐙 GitHub: Jai
+- 🐙 GitHub: Jaiveer Harshaliya 
 - 📧 Email: harshaliyajaix@gmail.com
 
 ---
